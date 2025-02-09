@@ -54,3 +54,8 @@ build/
 
 # Maven files
 target
+# Ignore Gradle build output directory
+build
+
+# Include the Gradle Wrapper Jar
+!gradle/wrapper/gradle-wrapper.jar
