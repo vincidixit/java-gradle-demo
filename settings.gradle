@@ -6,3 +6,5 @@
  */
 
 rootProject.name = 'java-gradle-demo'
+
+include 'app'
