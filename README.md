@@ -9,7 +9,6 @@ To get started with this project, you need to have Gradle installed. You can eit
 ## Prerequisites
 
 - Java Development Kit (JDK) 8 or later
-- Gradle 8.12.1 or later
 
 ## Building the Project
 
